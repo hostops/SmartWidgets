@@ -2,26 +2,24 @@
 #include <Servo.h>
 Servo pusher;
 void setup() {
-pinMode(13,OUTPUT);
+  pinMode(13,OUTPUT);
   Serial.begin(115200);
 }
 
 void loop() {
-  if (Serial.available() && Serial.read() == '\n') {
-    byte c = Serial.read();
-    if (c == 1) {
+  if (Serial.available()) {
+    char c = Serial.read();
+    if (c == (char)1) {
       turnOn();
     }else{
-    turnOff();
+      turnOff();
     }
-    
+      
   }
 }
 
 void turnOn() {
   pusher.attach(9);
-  pusher.write(180);
-  delay(1000);
   pusher.write(0);
   delay(1000);
   pusher.detach();
@@ -29,8 +27,6 @@ void turnOn() {
 void turnOff() {
   pusher.attach(9);
   pusher.write(180);
-  delay(1000);
-  pusher.write(0);
   delay(1000);
   pusher.detach();
 }

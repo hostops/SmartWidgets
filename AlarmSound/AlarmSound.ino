@@ -32,9 +32,9 @@
 #define NOTE_C3  131
 // Update these with values suitable for your network.
 
-const char* ssid = "Hostnik J";
-const char* password = "geslo123";
-const char* mqtt_server = "192.168.137.87";
+const char* ssid = "the HOSTNIK`s";
+const char* password = "hostnik235";
+const char* mqtt_server = "192.168.2.200";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
