@@ -1,0 +1,12 @@
+Group All
+Group gTurn	"Soba Jakob"		<bedroom>	(All)
+Switch Light_gTurn_SobaHostnik_mainLight	"Glavna luč"	(gTurn)	{ mqtt=">[me:gTurn/sobaHostnik/mainLight:command:OFF:default],>[me:gTurn/sobaHostnik/mainLight:command:ON:default],<[me:gTurn/sobaHostnik/mainLight:state:default]"}
+
+/*
+Group All
+Group gTurn	(All)
+
+Group gTurn_SobaHostnik	"HostnikSoba"	<bedroom>	(gTurn)
+
+Switch Light_gTurn_SobaHostnik_mainLight	"Glavna luč"	(gTurn)	{mqtt=">[me:gTurn/sobaHostnik/mainLight:command:ON:1],>[me:gTurn/sobaHostnik/mainLight:command:OFF:0]"}
+*/
