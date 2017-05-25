@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.2">
+  <CommandSet xml:lang="en-us" Name="CustomCommands">
+    <CommandPrefix>Listen up</CommandPrefix>
+    <Example>Please turn on the light.</Example>
+    
+    <Command Name="LightTurnOn">
+      <Example>Please turn on the light</Example>
+      <ListenFor>[Would] [you] [please] turn on [the] light [please]</ListenFor>
+      <Feedback>Turning lights on.</Feedback>
+      <Navigate />
+    </Command>
+
+    <Command Name="LightTurnOff">
+      <Example>Please turn off the light</Example>
+      <ListenFor>[Would] [you] [please] turn off [the] light [please]</ListenFor>
+      <Feedback>Turning lights off.</Feedback>
+      <Navigate />
+    </Command>
+    
+    <Command Name="LightTurnOff1">
+      <Example>Please turn off the light</Example>
+      <ListenFor>[Would] [you] [please] turn [the] light off[please]</ListenFor>
+      <Feedback>Turning lights off.</Feedback>
+      <Navigate />
+    </Command>
+
+    <Command Name="LightTurnOn1">
+      <Example>Please turn on the light</Example>
+      <ListenFor>[Would] [you] [please] turn [the] light on [please]</ListenFor>
+      <Feedback>Turning lights on.</Feedback>
+      <Navigate />
+    </Command>
+    
+    <Command Name="TellMeThatYouLoveMe">
+      <Example>Tell me that you love me</Example>
+      <ListenFor>Tell me that you love me</ListenFor>
+      <Feedback>That you love me.</Feedback>
+      <Navigate />
+    </Command>
+
+    <Command Name="IAmGoingToSleep">
+      <Example>I am going to sleep</Example>
+      <ListenFor>[I am] [I'm] going to sleep</ListenFor>
+      <Feedback>Turning lights off. Good night.</Feedback>
+      <Navigate />
+    </Command>
+  
+  </CommandSet>  
+
+</VoiceCommands>
