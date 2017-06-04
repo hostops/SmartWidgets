@@ -9,7 +9,7 @@ An alarm system is built with two widgets **AlarmSound** and **AlarmMotionSensor
 AlarmSound controller: ESP8266 - ESP12F<br/>
 AlarmMotionSensor controller: ESP8266 - ESP01<br/>
 Examples: <br/>
-<img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/video2.gif" width="300px"/><br/>
+<img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/video2.gif" width="300px"/> 
 <img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image2.jpg" width="300px"/><br/>
 ### Remote light switch system
 I wanted to try ESP8266 - ESP01 as WiFi module for Arduino boards. They comunicates over serial communication. Because of technical issues it uses servomotor to turn light on and off. With simple change of program you can controll light using relay.<br/> 
@@ -26,11 +26,11 @@ So you can say "Hey Cortana listen up turn the light on/off". <br/>
 All defined voice commands could be seen in **CortanaControl/CustomCortanaCommands/CustomVoiiceCommandDefinitions.xml**.<br/>
 
 Examples: <br/>
-<img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/video1.gif" width="300px"/><br/>
+<img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/video1.gif" width="300px"/> 
 <img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image1.jpg" width="300px"/><br/>
-<img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image3.PNG" width="300px"/><br/>
+<img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image3.PNG" width="300px"/> 
 <img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image4.jpg" width="300px"/><br/>
-<img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image5.jpg" width="300px"/><br/>
+<img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image5.jpg" width="300px"/> 
 <img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image6.PNG" width="300px"/><br/>
-<img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image7.PNG" width="300px"/><br/>
+<img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image7.PNG" width="300px"/> 
 <img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image8.PNG" width="300px"/><br/>
