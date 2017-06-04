@@ -27,10 +27,10 @@ All defined voice commands could be seen in **CortanaControl/CustomCortanaComman
 
 Examples: <br/>
 <img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/video1.gif" width="300px"/> 
-<img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image1.jpg" width="300px"/><br/>
-<img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image3.PNG" width="300px"/> 
 <img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image4.jpg" width="300px"/><br/>
 <img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image5.jpg" width="300px"/> 
+<img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image1.jpg" width="300px"/><br/>
+<img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image3.PNG" width="300px"/> 
 <img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image6.PNG" width="300px"/><br/>
 <img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image7.PNG" width="300px"/> 
 <img src="https://raw.githubusercontent.com/jakobhostnik/SmartWidgets/master/DemoContent/image8.PNG" width="300px"/><br/>
