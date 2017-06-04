@@ -1,5 +1,4 @@
 # Smartify
-<<<<<<< HEAD
 Smart house system based on OpenHAB2 and eclipse smarthome framework.
 It uses MQTT comunication protocol. Seminar work: http://jakob-hostnik.rf.gd/contents/OpenHAB.pdf<br/>
 <br/>
