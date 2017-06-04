@@ -14,7 +14,7 @@ Examples: <br/>
 ### Remote light switch system
 I wanted to try ESP8266 - ESP01 as WiFi module for Arduino boards. They comunicates over serial communication. Because of technical issues it uses servomotor to turn light on and off. With simple change of program you can controll light using relay.<br/> 
 **ButtonPusher**: ESP8266 - ESP01 program - It communicates to broker. When it gets data it sends signal to Arduino to turn light on/off<br/>
-**ButtonPusher_Arduino: Arduino program - When it recieves data form ESP01 it turns light on/off
+**ButtonPusher_Arduino**: Arduino program - When it recieves data form ESP01 it turns light on/off
 
 To turn your light on or off just push "ON" or "OFF" command to you broker in category gTurn/sobaHostnik/mainLight. You can change that name if you want.<br/>
 
