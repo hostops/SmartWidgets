@@ -1,8 +1,11 @@
 # Smartify
-Smart house system based on OpenHAB2 and eclipse smarthome framework.
-It uses MQTT comunication protocol. Seminar work: https://jakobhostnik.github.io/CV-Page/contents/KavniAvtomat.pdf<br/>
-<br/>
+![GitHub](https://img.shields.io/github/license/jakobhostnik/snake.svg)
+![Maintenance](https://img.shields.io/maintenance/yes/2020.svg)
+[![GitHub stars](https://img.shields.io/github/stars/jakobhostnik/smartwidgets.svg)](https://github.com/jakobhostnik/smartwidgets/stargazers) 
 
+Smart house system based on OpenHAB2 and eclipse smarthome framework.
+It uses MQTT comunication protocol. Seminar work: https://jakobhostnik.github.io/CV-Page/contents/KavniAvtomat.pdf  
+  
 ### Security system
 An alarm system is built with two widgets **AlarmSound** and **AlarmMotionSensor**. AlarmSound is widget which plays sound and flashing lights when AlarmMotionSensor detects motion. They comunicate over broker using MQTT.<br/>
 
